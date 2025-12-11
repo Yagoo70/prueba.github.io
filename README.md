@@ -12,7 +12,7 @@
 
   <p>Puedes ver mi otra página aquí:</p>
   <a href="(https://yagoo70.github.io/prueba.github.io/)">
-    [Mi otro repositorio en GitHub]
-  </a>
+    Mi otro repositorio en GitHub
+</a>
 </body>
 </html>
