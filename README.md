@@ -11,7 +11,7 @@
   <p>En este ejercicio estamos usando <strong>Markdown</strong> como parte de la práctica para crear contenido.</p>
 
   <p>Puedes ver mi otra página aquí:</p>
-  <a href="https://github.com/Yagoo70/yagoo70.github.io" target="_blank" rel="noopener noreferrer">
+  <a href="https://yagoo70.github.io/">
     Mi otro repositorio en GitHub
   </a>
 </body>
